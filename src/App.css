@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  margin: 10% 0 0 35%;
+  width: 30%;
+}
+.Login {
+  width: 200px;
+  height: 40px;
+  border-radius: 15px;
+  background-color: greenyellow;
+}
+a:hover {
+  text-decoration: underline;
+}
+.AddData {
+  margin: 30px 0 0 800px;
+  width: 200px;
+  height: 40px;
+  border-radius: 15px;
+  background-color: skyblue;
+}

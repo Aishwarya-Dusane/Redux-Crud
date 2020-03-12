@@ -1,0 +1,16 @@
+.delete {
+  width: 100px;
+  height: 40px;
+  border-radius: 15px;
+  background-color: lightgreen;
+}
+
+.edit {
+  width: 100px;
+  height: 40px;
+  border-radius: 15px;
+  background-color: lightgreen;
+}
+.post {
+  margin: 0 0 0 400px;
+}
